@@ -1,0 +1,17 @@
+.foto{
+    width: 100px;
+    height: 100px;
+}
+.hhh{
+    min-height: 450px;
+}
+.hh{
+    max-width: 60%;
+    margin:0 auto ;
+}
+.row{
+    padding-top: 10%;
+}
+.row2{
+    padding-bottom: 10%;
+}
